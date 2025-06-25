@@ -21,7 +21,7 @@
     "streamifier": "^0.1.1"
   },
   "devDependencies": {
-    "nyc": "13.3.0",
+    "nyc": "14.0.0",
     "mocha": "4.0.1",
     "standard": "10.0.3",
     "ptc-flow-test-helper": "~2.0.0"
