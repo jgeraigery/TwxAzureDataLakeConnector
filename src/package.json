@@ -24,7 +24,7 @@
     "nyc": "13.3.0",
     "mocha": "4.0.1",
     "standard": "10.0.3",
-    "ptc-flow-test-helper": "~2.0.0"
+    "ptc-flow-test-helper": "~4.13.3"
   },
   "standard": {
     "env": [
